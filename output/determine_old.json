@@ -1,0 +1,243 @@
+[
+  {
+    "fonte_file": "Det 08 Affidamento servizi cartellonistica.pdf",
+    "determina": {
+      "numero": "8",
+      "data": "29/01/2026",
+      "oggetto": "Affidamento servizi di cartellonistica stradale",
+      "cig": "BA21CAA017",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "Servin Media Srl"
+    },
+    "importo": {
+      "imponibile_totale": 12985.00,
+      "pluriennale": false,
+      "importo_annuale": null,
+      "numero_anni": null
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "01/05 Marketing",
+        "voce_di_spesa": "Media",
+        "importo": 12985.00
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Marco Gasperini",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": null,
+      "responsabile_area_marketing_comunicazione": "Carla Casalini",
+      "responsabile_museo_baratti_populonia": null,
+      "referente_affidamento": "Carla Casalini"
+    },
+    "base_normativa": "art. 50 c. 1, lett. b) D.Lgs. 36/2023"
+  },
+  {
+    "fonte_file": "Det 30 Lavori infrastruttura LAN WIFI Museo Cittadella.pdf",
+    "determina": {
+      "numero": "30",
+      "data": "05/03/2026",
+      "oggetto": "Affidamento diretto lavori sistemazione e adeguamento infrastruttura LAN/WIFI telefonia al Museo Archeologico di Baratti-Populonia – Cittadella",
+      "cig": "BAB7621666",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "S.T.I. di Venturi Claudio & C. s.n.c."
+    },
+    "importo": {
+      "imponibile_totale": 5570.92,
+      "pluriennale": false,
+      "importo_annuale": null,
+      "numero_anni": null
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "04 Museo Cittadella – Investimenti Diretti",
+        "voce_di_spesa": "04 Investimenti Diretti",
+        "importo": 5570.92
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Cristina Rotta",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": "Cristina Rotta",
+      "responsabile_area_marketing_comunicazione": null,
+      "responsabile_museo_baratti_populonia": "Marta Coccoluto",
+      "referente_affidamento": null
+    },
+    "base_normativa": "art. 50 c. 1, lett. a) D.Lgs. 36/2023"
+  },
+  {
+    "fonte_file": "Det 33 Fornitura legname per manutenzione nei parchi e parcheggi costieri.pdf",
+    "determina": {
+      "numero": "33",
+      "data": "13/03/2026",
+      "oggetto": "Fornitura di legname per interventi di manutenzione all'interno dei parchi e nei parcheggi costieri",
+      "cig": "BAC9A74233",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "Eurolegna s.r.l."
+    },
+    "importo": {
+      "imponibile_totale": 11460.00,
+      "pluriennale": false,
+      "importo_annuale": null,
+      "numero_anni": null
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "Commessa Full Service aree sosta Comune di Piombino",
+        "voce_di_spesa": "Manutenzione patrimonio immobiliare",
+        "importo": 9500.00
+      },
+      {
+        "centro_di_costo": "Parco Archeologico di Baratti-Populonia",
+        "voce_di_spesa": "Manutenzione patrimonio immobiliare",
+        "importo": 950.00
+      },
+      {
+        "centro_di_costo": "Parco Archeominerario di San Silvestro",
+        "voce_di_spesa": "Manutenzione patrimonio immobiliare",
+        "importo": 600.00
+      },
+      {
+        "centro_di_costo": "Parco della Sterpaia",
+        "voce_di_spesa": "Manutenzione patrimonio immobiliare",
+        "importo": 410.00
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Cristina Rotta",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": "Cristina Rotta",
+      "responsabile_area_marketing_comunicazione": null,
+      "responsabile_museo_baratti_populonia": null,
+      "referente_affidamento": null
+    },
+    "base_normativa": "art. 50 c. 1, lett. b) D.Lgs. 36/2023"
+  },
+  {
+    "fonte_file": "Det 52 Audit - servizio analisi dati e budget 2026-2028.pdf",
+    "determina": {
+      "numero": "52",
+      "data": "02/04/2026",
+      "oggetto": "Affidamento diretto servizi analisi dati, supporto redazione budget preventivo, sviluppo modelli previsionali, attività di Business Intelligence per le annualità 2026-2028",
+      "cig": "BB09795BB8",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "Studio Audit Stp ARL"
+    },
+    "importo": {
+      "imponibile_totale": 22500.00,
+      "pluriennale": true,
+      "importo_annuale": 7500.00,
+      "numero_anni": 3
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "01/02 Consulenti di Direzione",
+        "voce_di_spesa": "22/30 Prestazioni Professionali",
+        "importo": 7500.00
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Marco Gasperini",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": null,
+      "responsabile_area_marketing_comunicazione": null,
+      "responsabile_museo_baratti_populonia": null,
+      "referente_affidamento": null
+    },
+    "base_normativa": "art. 50 c. 1, lett. b) D.Lgs. 36/2023"
+  },
+  {
+    "fonte_file": "Det 53 affidam Prod84 servizio pulizia Bagni Baratti 2025_signed.pdf",
+    "determina": {
+      "numero": "53",
+      "data": "03/04/2026",
+      "oggetto": "Affidamento del servizio di gestione (pulizia e custodia) dei servizi igienici ubicati in Località Baratti anno 2026",
+      "cig": "BB203DC82F",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "Prod. 84 Cooperativa Sociale a r.l."
+    },
+    "importo": {
+      "imponibile_totale": 35150.78,
+      "pluriennale": false,
+      "importo_annuale": null,
+      "numero_anni": null
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "Commessa Gestione Full Service Comune di Piombino",
+        "voce_di_spesa": null,
+        "importo": 35150.78
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Marco Gasperini",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": null,
+      "responsabile_area_marketing_comunicazione": null,
+      "responsabile_museo_baratti_populonia": null,
+      "referente_affidamento": null
+    },
+    "base_normativa": "art. 50 c. 1, lett. b) D.Lgs. 36/2023"
+  },
+  {
+    "fonte_file": "Det 65 Taglio erba parco Baratti Populonia e s Silvestro.pdf",
+    "determina": {
+      "numero": "65",
+      "data": "21/04/2026",
+      "oggetto": "Affidamento diretto intervento taglio e sfalcio manuale dell'erba nel Parco Archeologico di Baratti-Populonia, nei parcheggi della Sterpaia e nel Parco Archeominerario di San Silvestro - anno 2026",
+      "cig": "BB686BD177",
+      "cup": null
+    },
+    "fornitore": {
+      "nome": "G. Boscaglia s.r.l."
+    },
+    "importo": {
+      "imponibile_totale": 29000.00,
+      "pluriennale": false,
+      "importo_annuale": null,
+      "numero_anni": null
+    },
+    "imputazione": [
+      {
+        "centro_di_costo": "Baratti",
+        "voce_di_spesa": "Spese generali di produzione – Manutenzione patrimonio immobiliare – Interventi esternalizzati",
+        "importo": 10750.00
+      },
+      {
+        "centro_di_costo": "San Silvestro",
+        "voce_di_spesa": "Spese generali di produzione – Manutenzione patrimonio immobiliare – Interventi esternalizzati",
+        "importo": 6250.00
+      },
+      {
+        "centro_di_costo": "Parcheggi",
+        "voce_di_spesa": "Manutenzione Patrimonio immobiliare",
+        "importo": 12000.00
+      }
+    ],
+    "ruoli": {
+      "amministratore_unico": "Luca Ardenghi",
+      "responsabile_del_progetto": "Cristina Rotta",
+      "responsabile_area_amministrativa": "Marco Gasperini",
+      "responsabile_area_tecnica": "Cristina Rotta",
+      "responsabile_area_marketing_comunicazione": null,
+      "responsabile_museo_baratti_populonia": null,
+      "referente_affidamento": null
+    },
+    "base_normativa": "art. 50 c. 1, lett. b) D.Lgs. 36/2023"
+  }
+]
